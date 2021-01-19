@@ -12,8 +12,6 @@ C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreap
 C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
 C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
 C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
-C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
-C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cache
 C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cs
 C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.TagHelpers.input.cache
@@ -35,3 +33,10 @@ C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreap
 C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
 C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
 C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll

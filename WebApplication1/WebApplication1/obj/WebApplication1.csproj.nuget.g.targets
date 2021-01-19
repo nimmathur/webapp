@@ -3,4 +3,7 @@
   <PropertyGroup>
     <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
   </PropertyGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)octopack\3.6.5\build\OctoPack.targets" Condition="Exists('$(NuGetPackageRoot)octopack\3.6.5\build\OctoPack.targets')" />
+  </ImportGroup>
 </Project>
