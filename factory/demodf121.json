@@ -1,0 +1,9 @@
+{
+	"name": "demodf121",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4187cb9b-5a6d-4981-8efd-0718430032ec",
+		"tenantId": "aa990e9d-faa1-47cd-a3aa-b5ade0873727"
+	}
+}
